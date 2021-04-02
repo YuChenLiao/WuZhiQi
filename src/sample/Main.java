@@ -1,5 +1,6 @@
 package sample;
 
+import java.lang.Integer;
 import javafx.application.Application;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
